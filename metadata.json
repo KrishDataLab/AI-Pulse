@@ -1,0 +1,6 @@
+{
+  "name": "AI Pulse",
+  "description": "Personal AI-industry intelligence system with multi-source ingestion, deduplication, personalized relevance scoring, and 'Why This Matters' reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
