@@ -1,4 +1,4 @@
-# ⚡ AI Pulse — Personal AI Intelligence Engine
+# ⚡ AI Pulse Personal AI Intelligence Engine
 
 > Autonomous intelligence engine designed to replace 30–60 minutes of fragmented AI news browsing with a high-signal, personalized 5-minute morning briefing.
 
