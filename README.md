@@ -2,7 +2,7 @@
 
 > Autonomous intelligence engine designed to replace 30–60 minutes of fragmented AI news browsing with a high-signal, personalized 5-minute morning briefing.
 
-![AI Pulse Dashboard Output](./src/assets/images/aipulse_dashboard_preview_1787480111723.jpg)
+![AI Pulse Dashboard Output](./src/assets/images/AIpulse.png)
 
 ---
 
