@@ -158,6 +158,9 @@ Where:
 - $B_{\text{convergence}}$: Boost when corroborated across multiple independent sources ($+10$).
 
 ---
+LINK:https://web-tau-six-ea2aommb1x.vercel.app/
+
+---
 
 ## 📄 License
 
